@@ -29,9 +29,9 @@ Speech recognition engine/API support:
 * Google Speech Recognition
 * `Google Cloud Speech API <https://cloud.google.com/speech/>`__
 * `Wit.ai <https://wit.ai/>`__
-* `Microsoft Bing Voice Recognition <https://www.microsoft.com/cognitive-services/en-us/speech-api>`__
+* `Microsoft Bing Voice Recognition <https://azure.microsoft.com/en-us/services/cognitive-services/speech/>`__
 * `Houndify API <https://houndify.com/>`__
-* `IBM Speech to Text <http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/speech-to-text.html>`__
+* `IBM Speech to Text <https://www.ibm.com/watson/services/speech-to-text/>`__
 * `Snowboy Hotword Detection <https://snowboy.kitt.ai/>`__ (works offline)
 
 **Quickstart:** ``pip install SpeechRecognition``. See the "Installing" section for more details.
